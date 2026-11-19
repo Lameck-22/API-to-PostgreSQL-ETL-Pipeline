@@ -274,7 +274,6 @@ SELECT user_id, full_name, email, city, loaded_at
 FROM users
 ORDER BY user_id;
 ```
-
 ### Check for duplicate user IDs
 
 ```sql
